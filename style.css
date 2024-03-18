@@ -1,0 +1,23 @@
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .text-purple {
+    color: rgb(255, 125, 255);
+  }
+  
+  .text-green {
+    color: limegreen;
+  }
+  body{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+  }
+
+  .content {
+    text-align: center;
+  }
